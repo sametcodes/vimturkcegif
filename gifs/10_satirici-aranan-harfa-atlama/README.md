@@ -1,4 +1,4 @@
-<img src="10.gif" width="800" />
+![](10.gif)
 
 ## `f<karakter>`
 
