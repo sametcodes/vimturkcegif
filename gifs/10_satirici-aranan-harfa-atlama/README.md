@@ -1,6 +1,6 @@
-<img src="10.gif" width="400" />
+<img src="10.gif" width="800" />
 
-## "f<karakter>"
+## `f<karakter>`
 
 Bir sonraki aranan karakterin üstüne atlar.
 
