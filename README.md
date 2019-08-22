@@ -1,4 +1,4 @@
-# vimturkce.gif
+<img src="readmestrip.jpg" width="600">
 
 Bu repo, [@vimturkce](http://twitter.com/vimturkce) hesabında GIF olarak paylaşılan içerikleri barındırır ve **haftalık olarak güncellenir**.
 
