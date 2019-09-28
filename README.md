@@ -50,8 +50,13 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [işaretleyicilerin (*markers*) kullanımı](gifs/22_isaretler)
 
 ### yazmaçlar (*registers*)
-- [`"+p` - sistem panosundan yapıştırmak](gifs/3_panodan-yapistirmak)
+- [`"+p` ― sistem panosundan yapıştırmak](gifs/3_panodan-yapistirmak)
+- [`<C-r>=` ― deyim yazmacını kullanmak](gifs/42_deyim-yazmaciyla-dort-islem)
 
 ### makrolar
-- [`qa` - makro kaydetmek](gifs/14_makro-kaydetmek)
+- [`qa` ― makro kaydetmek](gifs/14_makro-kaydetmek)
 - [`ia<ESC>qqylp<C-a>q24@q` ― tüm alfabeyi ekrana basar](gifs/20_alfabeyi-basmak)
+- [`qq0yt=A<C-r>=<C-r>"<CR><Esc>j` ― dört işlem hesaplayan makro hazırlamak](gifs/43_makrolarla-dort-islem)
+
+## çeşitli
+- [`:nnoremap Q 0yt=A<C-r>=<C-r>"<CR><Esc>` ― *nnoremap* ile dört işlem hesaplayan komut yazmak](gifs/44_nnoremap-dort-islem-hesaplamak)
