@@ -11,6 +11,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`S`, `C` - girdi moduna girmek](gifs/4_S-C-girdi-moduna-gecmek)
 - [girdi modundan çıkarken dosyanın otomatik kaydedilmesi](gifs/28_girdi-modu-ve-dosyanin-kaydedilmesi)
 - [`inoremap ( ()<ESC>i` ― otomatik parantez tamamlamak](gifs/30_parantez-tamamlama)
+- [`<C-r>0` - girdi modunda yapıştırmak](gifs/45_girdi-modunda-yapistirmak)
 
 ### normal mod
 - [`ciw` - imlecin üzerinde bulunan kelimeyi silmek](gifs/5_ciw-kelime-silmek)
