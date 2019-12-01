@@ -42,6 +42,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`<C-v> g <C-a>` ― çoklu satırda sayı artırmak](gifs/36_coklu-satirda-sayi-artirmak)
 - [`%s/kelime//gn` ― aranan değer için eşleşme sayısını bulmak](gifs/40_kelime-eslesme-sayisi)
 - [`:Ex` ― mevcut dizini görüntülemek ve yönetmek](gifs/41_dizini-goruntulemek-ve-yonetmek)
+- [`Q` ― çoklu komut modu (*ex*) açmak](gifs/47_ex-coklu-komut-modu)
 
 ### atlamalar (*jumps*)
 - [`f`, `F` ve `t`, `T` - satıriçi aranan harfe atlama yapmak](gifs/10_satirici-aranan-harfa-atlama)
