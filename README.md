@@ -38,8 +38,8 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 
 ### atlamalar (*jumps*)
 - [`f`, `F` ve `t`, `T` - satıriçi aranan harfe atlama yapmak](gifs/10_satirici-aranan-harfa-atlama)
--  [`gd` ― kelimenin ilk tanımlandığı konuma atlamak](gifs/26_gd-tanima-atlamak)
--  [`20%` ― yüzde oranlı satır atlamak](gifs/37_yuzde-oranli-satir-atlamak)
+- [`gd` ― kelimenin ilk tanımlandığı konuma atlamak](gifs/26_gd-tanima-atlamak)
+- [`20%` ― yüzde oranlı satır atlamak](gifs/37_yuzde-oranli-satir-atlamak)
 
 ### işaretleyiciler (*markers*)
 - [işaretleyicilerin (*markers*) kullanımı](gifs/22_isaretler)
@@ -53,7 +53,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`ia<ESC>qqylp<C-a>q24@q` ― tüm alfabeyi ekrana basar](gifs/20_alfabeyi-basmak)
 - [`qq0yt=A<C-r>=<C-r>"<CR><Esc>j` ― dört işlem hesaplayan makro hazırlamak](gifs/43_makrolarla-dort-islem)
 
-## komut satırı
+### komut satırı
 - [`:nnoremap Q 0yt=A<C-r>=<C-r>"<CR><Esc>` ― *nnoremap* ile dört işlem hesaplayan komut yazmak](gifs/44_nnoremap-dort-islem-hesaplamak)
 - [`:Ex` ― mevcut dizini görüntülemek ve yönetmek](gifs/41_dizini-goruntulemek-ve-yonetmek)
 - [`:!sudo tee %` ― sudo yetkisiyle dosya kaydetmek](gifs/29_sudo-dosya-kaydetmek)
@@ -64,3 +64,6 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`:mksession` ― oturum dosyası oluşturmak](gifs/13_oturum_dosyasi_olusturmak)
 - [`:m<satir>` ― satır taşımak](gifs/16_m-satir-tasimak)
 - [`:set undofile` ― kalıcı değişiklik (undo) geçmişi](gifs/48_kalici-undo-gecmisi)
+
+##### diğer
+- [uzak sunucudaki dosyayı düzenlemek](gifs/49_scp-uzak-sunucu-dosya-duzenlemek)
