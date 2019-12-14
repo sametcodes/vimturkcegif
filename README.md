@@ -65,5 +65,5 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`:m<satir>` ― satır taşımak](gifs/16_m-satir-tasimak)
 - [`:set undofile` ― kalıcı değişiklik (undo) geçmişi](gifs/48_kalici-undo-gecmisi)
 
-#### diğer
+### diğer
 - [uzak sunucudaki dosyayı düzenlemek](gifs/49_scp-uzak-sunucu-dosya-duzenlemek)
