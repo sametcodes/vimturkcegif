@@ -43,6 +43,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 
 ### işaretleyiciler (*markers*)
 - [işaretleyicilerin (*markers*) kullanımı](gifs/22_isaretler)
+- [<code>`0</code> ― değişiklik yapılan son dosyayı açmak](gifs/50-degisiklik-yapilan-son-dosyayi-acmak)
 
 ### yazmaçlar (*registers*)
 - [`"+p` ― sistem panosundan yapıştırmak](gifs/3_panodan-yapistirmak)
