@@ -65,6 +65,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`:mksession` ― oturum dosyası oluşturmak](gifs/13_oturum_dosyasi_olusturmak)
 - [`:m<satir>` ― satır taşımak](gifs/16_m-satir-tasimak)
 - [`:set undofile` ― kalıcı değişiklik (undo) geçmişi](gifs/48_kalici-undo-gecmisi)
+- [`:v/<pattern>/d` ― kalıp için eşleşme sağlamayan tüm satırları silmek](gifs/51-kalibin-eslesmedigi-satirlari-silmek)
 
 ### diğer
 - [uzak sunucudaki dosyayı düzenlemek](gifs/49_scp-uzak-sunucu-dosya-duzenlemek)
