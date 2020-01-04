@@ -53,6 +53,8 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`qa` ― makro kaydetmek](gifs/14_makro-kaydetmek)
 - [`ia<ESC>qqylp<C-a>q24@q` ― tüm alfabeyi ekrana basar](gifs/20_alfabeyi-basmak)
 - [`qq0yt=A<C-r>=<C-r>"<CR><Esc>j` ― dört işlem hesaplayan makro hazırlamak](gifs/43_makrolarla-dort-islem)
+- [`i1<ESC>qqYp<C-a>q8@q` ― ardışık sayılar üretmek](gifs/52-ardisik-sayi-yazdirmak)
+- [`qaxi<C-r>=2*<C-r>"<Enter><Esc>jq` ― ardışık sayıları çarpmak](gifs/53-ardisik-sayilari-carpmak)
 
 ### komut satırı
 - [`:nnoremap Q 0yt=A<C-r>=<C-r>"<CR><Esc>` ― *nnoremap* ile dört işlem hesaplayan komut yazmak](gifs/44_nnoremap-dort-islem-hesaplamak)
