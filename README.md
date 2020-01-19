@@ -36,11 +36,15 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`%s/kelime//gn` ― aranan değer için eşleşme sayısını bulmak](gifs/40_kelime-eslesme-sayisi)
 - [`Q` ― çoklu komut modu (*ex*) açmak](gifs/47_ex-coklu-komut-modu)
 
+### görsel mod
+- [`vi[`, `va[` ― parantezler arasındaki değerleri seçmek](gifs/55-parantezler-arasindaki-degerleri-duzenlemek-ve-secmek)
+
 ### atlamalar (*jumps*)
 - [`f`, `F` ve `t`, `T` - satıriçi aranan harfe atlama yapmak](gifs/10_satirici-aranan-harfa-atlama)
 - [`gd` ― kelimenin ilk tanımlandığı konuma atlamak](gifs/26_gd-tanima-atlamak)
 - [`20%` ― yüzde oranlı satır atlamak](gifs/37_yuzde-oranli-satir-atlamak)
 - [`gn` ― son arama kalıbı için eşleşen değerleri seçmek](gifs/54-mevcut-arama-kalibi-icin-eslesmelere-atlamak-ve-duzenlemek)
+
 
 ### işaretleyiciler (*markers*)
 - [işaretleyicilerin (*markers*) kullanımı](gifs/22_isaretler)
