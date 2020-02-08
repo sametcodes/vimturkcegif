@@ -35,6 +35,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`<C-v> g <C-a>` ― çoklu satırda sayı artırmak](gifs/36_coklu-satirda-sayi-artirmak)
 - [`%s/kelime//gn` ― aranan değer için eşleşme sayısını bulmak](gifs/40_kelime-eslesme-sayisi)
 - [`Q` ― çoklu komut modu (*ex*) açmak](gifs/47_ex-coklu-komut-modu)
+- [`J` ― satırları birleştirmek](gifs/56-coklu-satirlari-birlestirmek)
 
 ### görsel mod
 - [`vi[`, `va[` ― parantezler arasındaki değerleri seçmek](gifs/55-parantezler-arasindaki-degerleri-duzenlemek-ve-secmek)
