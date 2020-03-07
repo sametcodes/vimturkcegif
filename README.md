@@ -39,6 +39,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 
 ### görsel mod
 - [`vi[`, `va[` ― parantezler arasındaki değerleri seçmek](gifs/55-parantezler-arasindaki-degerleri-duzenlemek-ve-secmek)
+- [`<C-v>GItext<esc><enter>` ― bir değişikliği birden fazla satır için uygulamak](gifs/58-cok-satirli-degisiklik)	
 
 ### atlamalar (*jumps*)
 - [`f`, `F` ve `t`, `T` - satıriçi aranan harfe atlama yapmak](gifs/10_satirici-aranan-harfa-atlama)
