@@ -13,6 +13,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`inoremap ( ()<ESC>i` ― otomatik parantez tamamlamak](gifs/30_parantez-tamamlama)
 - [`<C-r>0` ― girdi modunda yapıştırmak](gifs/45_girdi-modunda-yapistirmak)
 - [`<C-x><C-f>` ― otomatik dizin tamamlama](gifs/46_otomatik-dizin-tamamlama)
+- [`<C-y>` ― bir üst satırdaki karakteri eklemek](gifs/60_ust-satirdan-imlec-kolon-karakteri-almak)
 
 ### normal mod
 - [`ciw` ― imlecin üzerinde bulunan kelimeyi silmek](gifs/5_ciw-kelime-silmek)
