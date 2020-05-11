@@ -77,6 +77,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`:set undofile` ― kalıcı değişiklik (undo) geçmişi](gifs/48_kalici-undo-gecmisi)
 - [`:v/<pattern>/d` ― kalıp için eşleşme sağlamayan tüm satırları silmek](gifs/51-kalibin-eslesmedigi-satirlari-silmek)
 - [`:%s/ara ve/& degistir/` ― ara ve değiştir](gifs/59_ara-ve-degistir)
+- [`:1,5`, `:.,$`, `%` ― satır aralıklarını kullanmak](gifs/61_satir-araliklari)
 
 ### diğer
 - [uzak sunucudaki dosyayı düzenlemek](gifs/49_scp-uzak-sunucu-dosya-duzenlemek)
