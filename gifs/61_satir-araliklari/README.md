@@ -4,7 +4,7 @@
 
 Komut satırında aralıklar kullanılarak mevcut dosyada düzenleme işlemleri yapılabilir. 
 
-Aralık verilirken başlangıç ve bitiş noktaları belirlenir. Bunlar satır sayıları, imleç satır (mevcut satır), tüm satırlar ve satır sonu olarak verilebilir. Başlangıç ve bitiş noktaları, `+4` ile 4 satır sonrası veya `-4` ile 4 satır öncesi belirlenebilir. 
+Aralık verilirken başlangıç ve bitiş noktaları belirlenir. Bu değerler, satır sayısı, imleç satırı (mevcut satır), tüm satırlar veya satır sonu olabilir. Başlangıç ve bitiş noktaları, `+4` ile 4 satır sonrası veya `-4` ile 4 satır öncesi belirlenebilir. 
 
 
 ### Örnekler 
