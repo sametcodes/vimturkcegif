@@ -7,5 +7,7 @@ Satır aralıkları arama işleviyle beraber kullanılabilir. Örnek komutta `/a
 Örnek olarak `:/lorem/,$ s/d/c` komutunu inceleyelim. Aralık olarak dosyada `lorem` kelimesinin bulunduğu ilk satır ve dosya sonunu ifade eden `$` deyimi kullanılmış. İşlem olarak ise bu aralıkta yer alan tüm `d` karakterleri `c` karakteri olarak değiştirilmiş. 
 
 Daha fazla bilgi için:
+
 [vimturkce: satır aralıklarının kullanımı](selmansamet/vimturkce.gif/tree/master/gifs/61_satir-araliklari)
+
 `:help ranges`
