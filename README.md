@@ -78,6 +78,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 - [`:v/<pattern>/d` ― kalıp için eşleşme sağlamayan tüm satırları silmek](gifs/51-kalibin-eslesmedigi-satirlari-silmek)
 - [`:%s/ara ve/& degistir/` ― ara ve değiştir](gifs/59_ara-ve-degistir)
 - [`:1,5`, `:.,$`, `%` ― satır sayı ve ifade aralıklarını kullanmak](gifs/61_satir-araliklari)
+- [`:/a/,/b/d` ― arama ile satır aralığı belirlemek](gifs/62-arama-ile-satir-araligi)
 
 ### diğer
 - [uzak sunucudaki dosyayı düzenlemek](gifs/49_scp-uzak-sunucu-dosya-duzenlemek)
