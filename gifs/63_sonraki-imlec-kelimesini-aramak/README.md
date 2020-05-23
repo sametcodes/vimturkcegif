@@ -2,9 +2,9 @@
 
 ## `*`, `#`
 
-İmlecin altındaki sonraki/önceki kelimeleri dosya içerisinde arar.
+Bu komutlar, imlecin altında bulunan kelimeyi dosya içinde arar.
 
-- `#` ― imlecin altında bulunan kelimeyi dosya içinde imleçten önce ara.
-- `*` ― imlecin altında bulunan kelimeyi dosya içinde imleçten sonra ara.
+- `#` ― imlecin altında bulunan kelimeyi dosya içinde imleçten önce arar.
+- `*` ― imlecin altında bulunan kelimeyi dosya içinde imleçten sonra arar.
 
 `:h *`, `:h #`
