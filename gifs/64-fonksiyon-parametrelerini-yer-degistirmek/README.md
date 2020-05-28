@@ -20,4 +20,6 @@
 
 Son aşamada kullanılan `<Enter>` komutu yerine 2 tuş kullanılarak `j^` kombinasyonu da verilebilir. `<Enter>` kullanmanın avantajı, normal moddayken basıldığında bir alt satırın başına atlamasıdır. Çoklu satır atlamak istediğimizde `4<Enter>` kombinasyonunu kullanarak, imlecin bulunduğu satırdan 4 satır aşağıdaki satırın başına daha kolay atlama yapabiliriz.
 
+---
+
 Pratik yapmak için [VimGolf: Bad Copy Syntax](http://www.vimgolf.com/challenges/5d3122ace2e18c0006b8bc4d) problemini çözmeye çalışabilirsin.
