@@ -84,3 +84,7 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 ### diğer
 - [uzak sunucudaki dosyayı düzenlemek](gifs/49_scp-uzak-sunucu-dosya-duzenlemek)
 - [URL kaynak kodunu almak](gifs/57-url-kaynak-kodu-almak)
+
+## pratikler
+
+- [fonksiyon çağrısında parametreleri değiştirmek (swap)](gifs/64-fonksiyon-parametrelerini-yer-degistirmek)
