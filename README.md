@@ -87,4 +87,4 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 
 ## pratikler
 
-- [fonksiyon çağrısında parametreleri değiştirmek (swap)](gifs/64-fonksiyon-parametrelerini-yer-degistirmek)
+- [`qqwldt,wvt)p%p<Enter>q` ― fonksiyon çağrısında parametreleri değiştirmek (swap)](gifs/64-fonksiyon-parametrelerini-yer-degistirmek)
