@@ -6,13 +6,13 @@
 
 #### komut açıklamaları
 
-`qq` ― `q` karakteri için makro kaydı başlatır
-`wl` ― imleci bir kelime (örnekteki _copy_ kelimesi) ileri ve bir karakter sağa atlatır 
-`dt,` ― imlecin konumundan sonraki `,` karakterinin yanına kadar siler
-`w` ― bir kelime ileri atlar
-`vt)p` ― imlecin konumundan sonra gelen `)` karakterine kadar görsel mod ile seçer ve sonra silinen değeri (bkz. `dt,`) yapıştırır
-`%p` ― imlecin üstünde veya yanında bulunan parantezin çiftine (_aç/kapa_) atlama yapar
-`<Enter>q` ― alt satıra inerek makro kaydını durdurur.
+- `qq` ― `q` karakteri için makro kaydı başlatır
+- `wl` ― imleci bir kelime (örnekteki _copy_ kelimesi) ileri ve bir karakter sağa atlatır 
+- `dt,` ― imlecin konumundan sonraki `,` karakterinin yanına kadar siler
+- `w` ― bir kelime ileri atlar
+- `vt)p` ― imlecin konumundan sonra gelen `)` karakterine kadar görsel mod ile seçer ve sonra silinen değeri (bkz. `dt,`) - yapıştırır
+- `%p` ― imlecin üstünde veya yanında bulunan parantezin çiftine (_aç/kapa_) atlama yapar
+- `<Enter>q` ― alt satıra inerek makro kaydını durdurur.
 
 #### değerlendirme
 
