@@ -88,3 +88,4 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 ## pratikler
 
 - [`qqwldt,wvt)p%p<Enter>q` ― fonksiyon çağrısında parametreleri değiştirmek (swap)](gifs/64-fonksiyon-parametrelerini-yer-degistirmek)
+- [`dw"_diti${}<ESC>p` ― JSX template string değişken düzeltmek](gifs/65-jsx-template-string)	
