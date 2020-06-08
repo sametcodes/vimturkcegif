@@ -8,6 +8,6 @@ Satır aralıkları arama işleviyle beraber kullanılabilir. Örnek komutta `/a
 
 Daha fazla bilgi için:
 
-[vimturkce: satır aralıklarının kullanımı](selmansamet/vimturkce.gif/tree/master/gifs/61_satir-araliklari)
+[vimturkce: satır aralıklarının kullanımı](/selmansamet/vimturkce.gif/tree/master/gifs/61_satir-araliklari)
 
 `:help ranges`
