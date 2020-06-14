@@ -1,6 +1,6 @@
-![](66.gif)
-
 ## `yt":%s/<C-R>"\(.*\)">\(.*\)<\/a>/[\2](\1)/g`
+
+![](66.gif)
 
 Bu örnekte HTML `<a href="...">` etiketiyle tanımlanmış birden fazla bağlantıyı markdown bağlantısına çevireceğiz. İlk yöntem olarak ara/değiştir yönteminde kullanılan komutları inceleyelim.
 
@@ -13,9 +13,9 @@ Bu örnekte HTML `<a href="...">` etiketiyle tanımlanmış birden fazla bağlan
 
 ---
 
-![](66_2.gif)
-
 ## `qqdi"A()<ESC>P^ditf>a[]<ESC>P%d0qjVG:norm @q`
+
+![](66_2.gif)
 
 Farklı bir çözüm yöntemi olarak, atlamaları (jump) ve panoyu efektik kullanabiliriz.
 
@@ -32,9 +32,9 @@ Farklı bir çözüm yöntemi olarak, atlamaları (jump) ve panoyu efektik kulla
 
 ---
 
-![](66_3.gif)
-
 ## `qqdi"yitS[<C-R>0](<C-R>-)<ESC>^qjVG:norm @q`
+
+![](66_3.gif)
 
 Daha sade bir çözüm olarak, yazmaçlar kullanılabilir. Bu yöntemde, silme ve kopyalama işlemiyle bağlantı adı ve adresini farklı panolara kaydediyor ve markdown bağlantısını oluştururken bu panodaki değerleri kullanıyoruz.
 
