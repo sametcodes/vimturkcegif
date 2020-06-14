@@ -89,3 +89,4 @@ Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar 
 
 - [`qqwldt,wvt)p%p<Enter>q` ― fonksiyon çağrısında parametreleri değiştirmek (swap)](gifs/64-fonksiyon-parametrelerini-yer-degistirmek)
 - [`dw"_diti${}<ESC>p` ― JSX template string değişken düzeltmek](gifs/65-jsx-template-string)	
+- [HTML `<a href="...">` etiketiyle tanımlanmış bağlantıları Markdown bağlantısına dönüştürmek](gifs/66-a-href-etiketini-markdown-linkine-cevirmek)
