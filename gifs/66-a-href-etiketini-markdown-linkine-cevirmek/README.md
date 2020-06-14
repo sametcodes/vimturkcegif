@@ -8,14 +8,16 @@ Bu örnekte HTML `<a href="...">` etiketiyle tanımlanmış birden fazla bağlan
 
 - `yt"` ― imlecin bulunduğu konumdan sonraki `"` karakterin yanına kadar kopyalar, burada amaç ara/değiştir satırında `<a href=` ifadesini panodan almak için kopyalamaktır
 - `:%s/<C-R>"` ― değiştirme işlemi için komut satırı açılır, `%` karakteri tüm satırları ifade eder, `<C-R>"` komutu `"` panosundaki değeri (son kopyalanan değer) komut satırına yapıştırır
-- `\(.*\)">\(.*\)<\/a>/` ― bu ifade, `.*` regex değerin uyan değerleri yakalar ve değiştirme komutunda `\1`, `\2` kısayollarıyla tekrar kullanılabilir
+- `\(.*\)">\(.*\)<\/a>/` ― bu ifade, `.*` regex değerine uyan değerleri yakalar ve değiştirme komutunda `\1`, `\2` kısayollarıyla tekrar kullanılabilir
 - `[\2](\1)/g` ― arama komutunda yakalanan değerleri markdown formatına uygun olarak yazdırır 
 
-![](66_1.gif)
+---
+
+![](66_2.gif)
 
 ## `qqdi"A()<ESC>P^ditf>a[]<ESC>P%d0qjVG:norm @q`
 
-Farklı bir çözüm yöntemi olarak, atlamalaru (jump) ve panoyu efektik kullanabiliriz.
+Farklı bir çözüm yöntemi olarak, atlamaları (jump) ve panoyu efektik kullanabiliriz.
 
 #### komut açıklamaları
 
@@ -28,7 +30,9 @@ Farklı bir çözüm yöntemi olarak, atlamalaru (jump) ve panoyu efektik kullan
 - `jVG` ― bir alt satıra (`j`) iner, görsel-blok moduna (`V`) geçer ve son satıra (`G`) atlar
 - `:norm @q` ― bir önceki komutta seçilen tüm satırlarda  `q` makrosunu çalıştırır
 
-![](66_2.gif)
+---
+
+![](66_3.gif)
 
 ## `qqdi"yitS[<C-R>0](<C-R>-)<ESC>^qjVG:norm @q`
 
