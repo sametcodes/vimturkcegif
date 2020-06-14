@@ -4,6 +4,8 @@ Bu repo, [@vimturkce](http://twitter.com/vimturkce) hesabında GIF olarak payla�
 
 Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar yazarak ayırdım. GIF dosyalarını görüntülemek ve başlıkla ilgili bilgiye erişmek için bağlantıya tıklamanız yeterli.
 
+Herhangi bir moddan bağımsız olarak, çeşitli problemlerin çözümlerini içeren [pratikler](https://github.com/selmansamet/vimturkce.gif#pratikler) başlığına göz atabilirsiniz. Bu başlık altındaki içerikler, komutlardaki her bir adımın açıklamasını ve ek olarak komutun genel bir değerlendirmesini içerir.
+
 ### Başlıklar
 
 ### girdi modu
