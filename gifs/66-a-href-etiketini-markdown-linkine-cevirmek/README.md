@@ -47,3 +47,5 @@ Daha sade bir çözüm olarak, yazmaçlar kullanılabilir. Bu yöntemde, silme v
 - `^q` ― imleç satır başına atlama yapar ve `q` karakteri için yapılan makro kaydını durdurur
 - `jVG` ― bir alt satıra (`j`) iner, görsel-blok moduna (`V`) geçer ve son satıra (`G`) atlar
 - `:norm @q` ― bir önceki komutta seçilen tüm satırlarda  `q` makrosunu çalıştırır
+
+`:help registers`
