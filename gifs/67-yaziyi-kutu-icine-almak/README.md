@@ -33,7 +33,13 @@ vh ┼  9532   vH ┿  9535   Vh ╂  9538   VH ╋  9547   FD ╱  9585   BD �
 -- More --
 ```
 
-Örneğin `<C-k>DH` komutu bize `┳` karakterini yazdıracaktır. Yazıyı kutu içine alırken buradaki kısayolları ve özel karakterleri kullandık.
+Örneğin `<C-k>DH` komutu bize `┳` karakterini yazdıracaktır. Yazıyı kutu içine alırken aşağıdaki kısayolları kullandık.
+
+- **dl** ― `┐`
+- **dr** ― `┌`
+- **ul** ― `┘`
+- **ur** ― `└`
+
 
 
 #### komutun değerlendirmesi
