@@ -92,3 +92,4 @@ Herhangi bir moddan bağımsız olarak, çeşitli problemlerin çözümlerini i�
 - [`qqwldt,wvt)p%p<Enter>q` ― fonksiyon çağrısında parametreleri değiştirmek (swap)](gifs/64-fonksiyon-parametrelerini-yer-degistirmek)
 - [`dw"_diti${}<ESC>p` ― JSX template string değişken düzeltmek](gifs/65-jsx-template-string)	
 - [HTML `<a href="...">` etiketiyle tanımlanmış bağlantıları Markdown bağlantısına dönüştürmek](gifs/66-a-href-etiketini-markdown-linkine-cevirmek)
+- [yazıyı kutu içine almak](gifs/67-yaziyi-kutu-icine-almak)
