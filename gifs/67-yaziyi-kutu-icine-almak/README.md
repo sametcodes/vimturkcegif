@@ -4,7 +4,7 @@
 
 Bu alıştırmada, örnek bir yazıyı kutu içine alıyoruz. Alıştırmayı iki aşamada inceleyeceğiz. Birincisi yazıyı kutu alırken kullandığımız komutlara bakacağız, ikinci olarak Vim'in özel karakterler yazmamızı sağlayan `digraph` özelliğine bakacağız.
 
-#### komut açıklama
+#### komut açıklaması
 
 - `i<C-k>vv  ` ― girdi moduna geçiş yapıyoruz ve `CTRL+k` kombinasyonu göndererek bir *digraph* karakter girmek için girdi (input) açar, `vv` değerini girerek `│` boru karakterini yazar ve iki boşluk karakteri yazar
 - `<C-o>$  ` ― `CTRL+O` kombinasyonuyla girdi modundayken tek komutluk bir değer gönderilebilir, `$` ile satır sonuna atlar ve iki boşluk bırakır
