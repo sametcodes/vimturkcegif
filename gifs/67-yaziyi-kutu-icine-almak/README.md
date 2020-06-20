@@ -38,11 +38,13 @@ vh ┼  9532   vH ┿  9535   Vh ╂  9538   VH ╋  9547   FD ╱  9585   BD �
 
 #### komutun değerlendirmesi
 
-Bu örnekte kullandığımız komutlarda, pratik olmak  açısından önemli iki nokta bulunuyor.
+Bu örnekte kullandığımız komutlarda, pratik olmak  açısından önemli üç nokta bulunuyor.
 
 Bunlardan biri `<C-o>` komutu. Girdi modundayken bu komutu kullandığımızda, normal mod için tek bir komut gönderebiliyoruz. Bu komutu verdikten sonra otomatik olarak tekrar girdi moduna geçiyor. Bunu kullanmasaydık, bu örnekte satır sonuna atlarken `<ESC>$i` veya `<ESC>A` komutunu vererek satır sonuna atlayabilirdik. Elbette girdi modundan hiç çıkmadan `<End>` tuşuyla da bu atlamayı sağlayabilirdik, fakat buradaki amaç Vim'i öğrenmek olduğu için buna değinmiyorum bile. Yoksa fare ile satır sonuna da tıklayabiliriz :)
 
-Bir diğer nokta, satırı çoğlatmak için kullandığımız `Y2P` komutu. Standart olarak kopyaladığımız bir satırı (`Y`) yapıştırdığımızda (`p`) Vim imlecin bulunduğu satırdan sonraki satıra yapıştırır. Buradaki `P` komutu, panodaki değeri bir üst satıra yapıştıracak ve başında `2` değeri bulunduğu için imleç satırından önce değeri 2 defa yapıştıracaktır. İmleç öncesine yapıştırmamızın sebebi, sonraki işlemi yapmak için birinci satırdan başlamaktır. Çünkü imleç, yapıştırma işlemi sonrasında yapıştırılan değerin en başına atlama yapar. Bu küçük bir detaydır, fakat pratiklik kazanmak için farkında olunması gereken bir noktadır.
+Bir diğer nokta karakterleri toplu olarak değiştirdiğimiz (`Vr`) (replace) komutu. Normal modda, `r` komutunu gönderdikten sonra yeni bir karakter girerek imlecin üzerinde bulunduğu karakteri değiştirebiliriz. Görsel veya görsel blog modunda imleç ile seçtiğimiz karakterlerin tümünü değiştirmek istiyorsak, seçim sonrasında `r` komutunu verebilir ve yeni bir karakter girebiliriz; sonuç olarak seçili olan tüm karakterleri tek bir karakterle değiştirmiş oluru . Bu örnekte de bu yöntemi kullanarak kutunun alt ve üst çizgilerini oluşturduk. Her karakteri tek tek yazmak yerine satırda görsel blok modunu (`V`) açtık `r<C-k>hh` komutu ile seçili olan tüm karakterleri `─` çizgi karakteri ile değiştirdik. Böylece satırın uzunluğu kadar üst ve alt çizgi elde etmiş olduk.
+
+Son nokta, satırı çoğlatmak için kullandığımız `Y2P` komutu. Standart olarak kopyaladığımız bir satırı (`Y`) yapıştırdığımızda (`p`) Vim imlecin bulunduğu satırdan sonraki satıra yapıştırır. Buradaki `P` komutu, panodaki değeri bir üst satıra yapıştıracak ve başında `2` değeri bulunduğu için imleç satırından önce değeri 2 defa yapıştıracaktır. İmleç öncesine yapıştırmamızın sebebi, sonraki işlemi yapmak için birinci satırdan başlamaktır. Çünkü imleç, yapıştırma işlemi sonrasında yapıştırılan değerin en başına atlama yapar. Bu küçük bir detaydır, fakat pratiklik kazanmak için farkında olunması gereken bir noktadır.
 
 `:help ctrl-o`
 `:help dig[raphs]`
