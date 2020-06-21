@@ -6,13 +6,12 @@ Bu alıştırmada, örnek bir yazıyı kutu içine alıyoruz. Alıştırmayı ik
 
 #### komut açıklaması
 
-- `i<C-k>vv  ` ― girdi moduna geçiş yapıyoruz ve `CTRL+k` kombinasyonu göndererek bir *digraph* karakter girmek için girdi (input) açar, `vv` değerini girerek `│` boru karakterini yazar ve iki boşluk karakteri yazar
-- `<C-o>$  ` ― `CTRL+O` kombinasyonuyla girdi modundayken tek komutluk bir değer gönderilebilir, `$` ile satır sonuna atlar ve iki boşluk bırakır
+- `i<C-k>vv  ` ― girdi moduna geçiş yapar ve `CTRL+k` kombinasyonu ile bir *digraph* karakter girmek için girdi (input) açar, `vv` değerini girer ve sonuç olarak `│` boru karakterini yazar, son olarak iki boşluk karakteri yazar
+- `<C-o>$  ` ― `CTRL+O` kombinasyonuyla girdi modundayken tek komutluk bir değer gönderir, `$` ile satır sonuna atlar ve iki boşluk bırakır
 - `<C-k>vv<ESC>` ― ilk komutta yapılan işlemin tekrarıdır,  `│` karakterini yazının sonuna ekler ve girdi modundan çıkar
 - `Y2P` ― imlecin bulunduğu satırın tümünü kopyalar (`Y`) ve imleçten önceki konuma 2 defa (`2P`) yapıştırır 
-- `Vr<C-k>hh` ― görsel blok moduna geçer ve imleç altında seçili olan tüm karakterleri `─` çizgi karakteri `<C-k>hh` ile değiştirir `r`
+- `Vr<C-k>hh` ― görsel blok moduna geçer ve imleç altında seçili olan tüm karakterleri `─` çizgi karakteri (`<C-k>hh`) ile değiştirir `r`
 - `2j.` ― iki satır aşağı iner ve bir önceki komutu tekrar ederek satırdaki tüm karakterleri `―` çizgi karakteri ile değiştirir
-
 
 #### digraph karakterlerin kullanımı
 
