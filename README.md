@@ -93,3 +93,4 @@ Herhangi bir moddan bağımsız olarak, çeşitli problemlerin çözümlerini i�
 - [`dw"_diti${}<ESC>p` ― JSX template string değişken düzeltmek](gifs/65-jsx-template-string)	
 - [HTML `<a href="...">` etiketiyle tanımlanmış bağlantıları Markdown bağlantısına dönüştürmek](gifs/66-a-href-etiketini-markdown-linkine-cevirmek)
 - [yazıyı kutu içine almak](gifs/67-yaziyi-kutu-icine-almak)
+- [`:g/J/norm V"0P` ― aranan değeri içeren satırlar için komut uygulamak](gifs/68-aranan-degeri-iceren-satirlar-icin-komut-uygulamak)
