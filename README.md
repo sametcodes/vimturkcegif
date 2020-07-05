@@ -94,3 +94,4 @@ Herhangi bir moddan bağımsız olarak, çeşitli problemlerin çözümlerini i�
 - [HTML `<a href="...">` etiketiyle tanımlanmış bağlantıları Markdown bağlantısına dönüştürmek](gifs/66-a-href-etiketini-markdown-linkine-cevirmek)
 - [yazıyı kutu içine almak](gifs/67-yaziyi-kutu-icine-almak)
 - [`:g/J/norm V"0P` ― aranan değeri içeren satırlar için komut uygulamak](gifs/68-aranan-degeri-iceren-satirlar-icin-komut-uygulamak)
+- [`+5:s/\w\+/& = '\U&'` ― obje için anahtar-değer alıştırması](gifs/69-obje-nitelik-deger-alistirmasi)
