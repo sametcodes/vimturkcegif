@@ -1,6 +1,6 @@
 <img src="readmestrip.jpg" width="600">
 
-Bu repo, [@vimturkce](http://twitter.com/vimturkce) hesabında GIF olarak paylaşılan içerikleri barındırır ve **haftalık olarak güncellenir**.
+Bu repo, [@vimturkce](http://twitter.com/vimturkce) hesabında GIF olarak paylaşılan içerikleri barındırır.
 
 Aşağıdaki listede komutları gruplarına göre yanlarına ufak açıklamalar yazarak ayırdım. GIF dosyalarını görüntülemek ve başlıkla ilgili bilgiye erişmek için bağlantıya tıklamanız yeterli.
 
